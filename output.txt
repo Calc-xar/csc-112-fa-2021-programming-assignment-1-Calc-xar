@@ -1,0 +1,64 @@
+Clinton, William Jefferson
+19283746
+78.6
+
+Curtis, Jamie Lee
+44335588
+80.0
+
+Harris, Neil Patrick
+55743920
+79.0
+
+Hewitt, Jennifer Love
+11002299
+80.6
+
+Kim, Daniel Dai
+83640926
+79.8
+
+Longfellow, Henry Wadsworth
+98765432
+88.8
+
+Marquez, Gabriel Garcia
+49020021
+94.2
+
+Stevenson, Robert Lewis
+111338745
+86.2
+
+Williams, Billy Dee
+36784950
+85.4
+
+Yeats, William Butler
+74809223
+78.0
+
+*************************************************************
+
+GROUP 1
+Clinton, William Jefferson
+Curtis, Jamie Lee
+Harris, Neil Patrick
+Hewitt, Jennifer Love
+Group 1 's leader: Curtis, Jamie Lee
+Group average = 79.55
+
+GROUP 2
+Kim, Daniel Dai
+Longfellow, Henry Wadsworth
+Marquez, Gabriel Garcia
+Stevenson, Robert Lewis
+Group 2 's leader: Kim, Daniel Dai
+Group average = 87.25
+
+GROUP 3
+Williams, Billy Dee
+Yeats, William Butler
+Group 3 's leader: Williams, Billy Dee
+Group average = 81.7
+
